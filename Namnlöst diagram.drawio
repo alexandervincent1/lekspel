@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T09:48:24.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kJ_BvcBNtR2n1KWHvrUQ" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T11:03:45.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qtfiu9fOJcGfLm5I3OuR" version="23.0.0" type="github">
   <diagram name="Sida-1" id="yvDOUg8r-f1I4mLXPEEP">
-    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,27 @@
         </mxCell>
         <mxCell id="eHk_KXZlWuExK-L3WsCX-22" value="I varje switch case hämtar vi ett nummer från randomizern och tar bort det frånvår hälsa" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eHk_KXZlWuExK-L3WsCX-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="880" as="sourcePoint" />
+            <mxPoint x="260" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHk_KXZlWuExK-L3WsCX-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="720" as="sourcePoint" />
+            <mxPoint x="200" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHk_KXZlWuExK-L3WsCX-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="eHk_KXZlWuExK-L3WsCX-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1170" as="sourcePoint" />
+            <mxPoint x="230" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eHk_KXZlWuExK-L3WsCX-26" value="Slut" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
