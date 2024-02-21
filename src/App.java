@@ -22,6 +22,8 @@ public class App {
         Scanner tangentbord = new Scanner(System.in);
         int spelarensliv = 100;
         int datornsliv = 100;
+        int runda = 0;
+        int vinstspelare=0;
         
         
         while (true) {
@@ -33,8 +35,7 @@ public class App {
         int bangkok = slumptal;
         Random tärning1 = new Random();
         int slumptal1 = tärning1.nextInt(100);
-        int runda = 0;
-        int vinstspelare=0;
+        
         System.out.println(" ");
             System.out.println("1. Uppercut " + "2.Hook" + " 3.Bangkok");
             menyval = tangentbord.nextInt();
